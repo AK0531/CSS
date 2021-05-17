@@ -1,1 +1,69 @@
+.title {
+  font-size: 20px;
+  font-weight: 600;
+  color:rgb(24, 24, 179);
+  float: left;
+}
+
+.parent {
+  float: right;
+}
+
+.home {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  color:rgb(24, 24, 179);
+  margin: 0 16px 0 auto;
+}
+
+.company {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  color:rgb(24, 24, 179);
+  margin: 0 16px 0 auto;
+}
+
+.recruit {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  color:rgb(24, 24, 179);
+  margin: 0 16px 0 auto;
+}
+
+.form {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
+  color:rgb(24, 24, 179);
+  margin: 0 16px 0 auto;
+}
+
+.relative {
+  position: relative;
+}
+
+.box1 {
+  position: absolute;
+  height: 150px;
+  width: 800px;
+  background: rgb(24, 24, 179);
+  top: 450px;
+}
+
+.img1 {
+  position: absolute;
+  display: block;
+  width: 50%;
+  top: 150px;
+  left: 650px;
+}
+
+.absolute {
+  position: absolute;
+  top: 340px;
+  font-size: 50px;
+}
 
